@@ -2,7 +2,7 @@
 *.venv
 *.jpg
 *.zip
-DS/
+
 
 # Windows junk
 Thumbs.db
@@ -17,3 +17,8 @@ __pycache__/
 #vscode
 .vscode/
 
+# Ignore everything in DS
+DS/*
+
+# Except the .gitkeep file
+!DS/.gitkeep
