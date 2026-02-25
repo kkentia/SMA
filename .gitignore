@@ -2,7 +2,7 @@
 *.venv
 *.jpg
 *.zip
-series1/kagglecatsanddogs/
+DS/
 
 # Windows junk
 Thumbs.db
